@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./LOGO.png" alt="Scholar Labs Search" width="360"/>
+  <img src="./LOGO.png" alt="Scholar Labs Search" width="660"/>
 </div>
 
 # Google Scholar Searcher
